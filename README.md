@@ -56,5 +56,5 @@ Two basic algorithmic scripts are supplied handling time evaluation and linear s
 ## 🔗 Submission Links
 
 - **GitHub Repository:** https://github.com/rameshmangali/PlatinumRx_Data_Analyst_Assignment
-- **Spreadsheet:** Included inside `/Spreadsheets/` directory (`https://docs.google.com/spreadsheets/d/1SXo6zJzKP2FiY3N5rcHXR4iRofpsdKYdQeumrQxW8OU/edit?usp=sharing`). If utilizing Google Sheets, import this file directly.
+- **Spreadsheet:** Included inside `/Spreadsheets/` directory ([`https://docs.google.com/spreadsheets/d/1SXo6zJzKP2FiY3N5rcHXR4iRofpsdKYdQeumrQxW8OU/edit?usp=sharing`]). If utilizing Google Sheets, import this file directly.
 - **Screen Recording:** `[INSERT DRIVE LINK HERE]`
